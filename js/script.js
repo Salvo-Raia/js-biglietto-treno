@@ -4,16 +4,16 @@ console.log("JS Ready to go");
    che vuole percorrere e l'età del passeggero */ 
 
 const userTravelLenght = parseInt(prompt("Quanti chilometri percorrerai?","10"));
-console.log("Chilometri previsti:", userTravelLenght, typeof userTravelLenght);
+console.log("Chilometri previsti:", userTravelLenght);
 
 const userAge = parseInt(prompt("Quanti anni hai?", "18"));
-console.log("Età utente:", userAge, typeof userAge);
+console.log("Età utente:", userAge);
 
 /*Sulla base di queste informazioni dovrà calcolare il prezzo totale del viaggio, secondo queste regole:
   il prezzo del biglietto è definito in base ai km (0.21 € al km) */
 
   const ticketStandard = userTravelLenght * 0.21; 
-  console.log("Il prezzo base del biglietto è di:", ticketStandard, "€", typeof ticketStandard);
+  console.log("Il prezzo base del biglietto è di:", ticketStandard, "€");
 
 /* va applicato uno sconto del 20% per i minorenni
    va applicato uno sconto del 40% per gli over 65.
