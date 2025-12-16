@@ -12,8 +12,7 @@ console.log("Età utente:", userAge, typeof userAge);
 /*Sulla base di queste informazioni dovrà calcolare il prezzo totale del viaggio, secondo queste regole:
   il prezzo del biglietto è definito in base ai km (0.21 € al km) */
 
-  const ticketRate = 0.21; 
-  const ticketStandard = userTravelLenght * ticketRate; 
+  const ticketStandard = userTravelLenght * 0.21; 
   console.log("Il prezzo base del biglietto è di:", ticketStandard, "€", typeof ticketStandard);
 
 /* va applicato uno sconto del 20% per i minorenni
