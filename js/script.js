@@ -3,10 +3,10 @@ console.log("JS Ready to go");
 /* Il programma dovrà chiedere all'utente il numero di chilometri 
    che vuole percorrere e l'età del passeggero */ 
 
-const userTravelLenght = parseInt(prompt("Quanti chilometri percorrerai?"));
+const userTravelLenght = parseInt(prompt("Quanti chilometri percorrerai?","10"));
 console.log("Chilometri previsti:", userTravelLenght, typeof userTravelLenght);
 
-const userAge = parseInt(prompt("Quanti anni hai?"));
+const userAge = parseInt(prompt("Quanti anni hai?", "18"));
 console.log("Età utente:", userAge, typeof userAge);
 
 /*Sulla base di queste informazioni dovrà calcolare il prezzo totale del viaggio, secondo queste regole:
