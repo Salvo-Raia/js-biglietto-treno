@@ -14,6 +14,7 @@ L'output del prezzo finale va messo fuori in forma umana (con massimo due decima
 
 **TIP:**
 per controllare che la vostra logica sui prezzi funzioni correttamente, provate a verificare quanto segue:
-
-100km, 10 anni => prezzo corretto:  €16.80
-100km, 70 anni => prezzo corretto: €12.60
+>
+> * 100km, 10 anni => prezzo corretto:  €16.80
+> * 100km, 70 anni => prezzo corretto: €12.60
+> 
