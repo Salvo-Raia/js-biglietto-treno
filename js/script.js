@@ -26,15 +26,15 @@ console.log("Età utente:", userAge);
 
    if (userAge <18) {
     finalTicketPrice = ticketStandard - discountUnderAge;
-    console.log("Il prezzo del tuo biglietto è di:", finalTicketPrice.toFixed(2), "€");
+    console.log("Il prezzo del tuo biglietto è di:", parseInt(finalTicketPrice.toFixed(2)), "€");
    }
 
    else if (userAge >=65) {
     finalTicketPrice = ticketStandard - discountOverAge;
-    console.log("Il prezzo del tuo biglietto è di:", finalTicketPrice.toFixed(2), "€");
+    console.log("Il prezzo del tuo biglietto è di:", parseInt(finalTicketPrice.toFixed(2)), "€");
    }
 
    else {
     finalTicketPrice = ticketStandard;
-    console.log("Il prezzo del tuo biglietto è di:", finalTicketPrice.toFixed(2), "€");
+    console.log("Il prezzo del tuo biglietto è di:", parseInt(finalTicketPrice.toFixed(2)), "€");
    }
