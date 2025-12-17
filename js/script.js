@@ -24,7 +24,7 @@ console.log("Età utente:", userAge);
    const discountOverAge = ticketStandard * 0.40;
    let finalTicketPrice; 
 
-   if (userAge <=17) {
+   if (userAge <18) {
     finalTicketPrice = ticketStandard - discountUnderAge;
     console.log("Il prezzo del tuo biglietto è di:", finalTicketPrice.toFixed(2), "€");
    }
