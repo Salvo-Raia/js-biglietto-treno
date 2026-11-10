@@ -1,20 +1,49 @@
-# Esercizio: Biglietto del treno
-Nome repo: `js-biglietto-treno`
+![Boolean Tech Academy](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
 
-## Consegna 
+# 🎓 Exercise 15/50 - Train Ticket Calculator
 
-Il programma dovrà chiedere all'utente il numero di chilometri che vuole percorrere e l'età del passeggero.
+## 📌 Project Overview
 
-Sulla base di queste informazioni dovrà calcolare il prezzo totale del viaggio, secondo queste regole:
+| Property | Details |
+|:--|:--|
+| Repository | `js-biglietto-treno` |
+| Category | Boolean Tech Academy |
+| Type | Exercise |
+| Exercise | 15/50 |
 
-il prezzo del biglietto è definito in base ai km (0.21 € al km)
-va applicato uno sconto del 20% per i minorenni
-va applicato uno sconto del 40% per gli over 65.
-L'output del prezzo finale va messo fuori in forma umana (con massimo due decimali, per indicare centesimi sul prezzo). Questo richiederà un minimo di ricerca.
+## 🎯 Assignment
 
-**TIP:**
-per controllare che la vostra logica sui prezzi funzioni correttamente, provate a verificare quanto segue:
->
-> * 100km, 10 anni => prezzo corretto:  €16.80
-> * 100km, 70 anni => prezzo corretto: €12.60
-> 
+Create a program that asks the user for the number of kilometers they wish to travel and the passenger's age.
+
+Based on this information, the program must calculate the total ticket price according to the following rules:
+
+- The ticket price is based on the distance travelled: **€0.21 per kilometer**.
+- Passengers under 18 receive a **20% discount**.
+- Passengers over 65 receive a **40% discount**.
+
+The final ticket price must be displayed in a human-readable format, with a maximum of two decimal places to represent cents. This will require a little research.
+
+### 💡 Tips
+
+To check whether your pricing logic works correctly, test the following cases:
+
+| Distance | Passenger's Age | Expected Price |
+|:--|:--|--:|
+| 100 km | 10 | € 16.80 |
+| 100 km | 70 | € 12.60 |
+
+## 🛠️ Technologies
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+## 💡 What I Learned
+
+- Working with user input.
+- Using variables and operators to perform calculations.
+- Implementing conditional logic with `if` statements.
+- Applying percentage-based discounts.
+- Formatting numerical values to display a maximum of two decimal places.
+
+## ©️ Credits
+
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course - Class 152 - Year 2025-2026
