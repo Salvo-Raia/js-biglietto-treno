@@ -1,6 +1,8 @@
-![Boolean Tech Academy](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# 🎓 Exercise 15/50 - Train Ticket Calculator
+# 🎓 Exercise 15/50: Train Ticket Calculator
+
+A JavaScript exercise focused on calculating train ticket fares based on travel distance and applying age-related discounts.
 
 ## 📌 Project Overview
 
@@ -23,7 +25,7 @@ Based on this information, the program must calculate the total ticket price acc
 
 The final ticket price must be displayed in a human-readable format, with a maximum of two decimal places to represent cents. This will require a little research.
 
-### 💡 Tips
+### 🔎 Notes
 
 To check whether your pricing logic works correctly, test the following cases:
 
@@ -46,4 +48,4 @@ To check whether your pricing logic works correctly, test the following cases:
 
 ## ©️ Credits
 
-Exercise assigned by **Boolean Tech Academy** as part of the Web Development course - Class 152 - Year 2025-2026
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025–2026).
