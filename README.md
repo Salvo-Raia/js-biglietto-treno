@@ -2,7 +2,7 @@
 
 # 🎓 Exercise 15/50: Train Ticket Calculator
 
-A JavaScript exercise focused on calculating train ticket fares based on travel distance and applying age-related discounts.
+Calculating train ticket prices based on travel distance, passenger age, and applicable discounts using JavaScript.
 
 ## 📌 Project Overview
 
