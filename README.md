@@ -8,7 +8,7 @@ Calculating train ticket prices based on travel distance, passenger age, and app
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| js-biglietto-treno | Train Ticket Calculator | Exercise | JavaScript Variables, Operators & Conditionals | 15/50 |
+| js-biglietto-treno | Train Ticket Calculator | Exercise | JavaScript operators & Conditionals | 15/50 |
 
 ## Assignment
 
@@ -45,4 +45,4 @@ To check whether your pricing logic works correctly, test the following cases:
 
 ## Credits
 
-Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025–2026).
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025-2026).
