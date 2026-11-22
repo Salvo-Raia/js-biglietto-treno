@@ -24,7 +24,7 @@ The final ticket price must be displayed in a human-readable format, with a maxi
 
 ##### Notes
 
-To check whether your pricing logic works correctly, test the following cases:
+To check whether your pricing logic works correctly, test the following cases.
 
 | Distance | Passenger's Age | Expected Price |
 |:--|:--|--:|
