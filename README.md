@@ -8,13 +8,13 @@ Calculating train ticket prices based on travel distance, passenger age, and app
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| js-biglietto-treno | Train Ticket Calculator | Exercise | JavaScript operators & Conditionals | 15/50 |
+| js-biglietto-treno | Train Ticket Calculator | Exercise | JavaScript, operators & Conditionals | 15/50 |
 
 ## Assignment
 
 Create a program that asks the user for the number of kilometers they wish to travel and the passenger's age.
 
-Based on this information, the program must calculate the total ticket price according to the following rules:
+Based on this information, the program must calculate the total ticket price according to the following rules.
 
 - The ticket price is based on the distance travelled: **€0.21 per kilometer**.
 - Passengers under 18 receive a **20% discount**.
