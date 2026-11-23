@@ -8,7 +8,7 @@ Calculating train ticket prices based on travel distance, passenger age, and app
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| js-biglietto-treno | Train Ticket Calculator | Exercise | JavaScript, operators & Conditionals | 15/50 |
+| js-biglietto-treno | Train Ticket Calculator | Exercise | JavaScript, operators, conditionals | 15/50 |
 
 ## Assignment
 
